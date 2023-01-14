@@ -16,4 +16,12 @@
 <info>O bilionário da tecnologia Miles Bron convida seus amigos para uma escapadela em sua ilha grega particular. Quando alguém aparece morto, o Detetive Benoit Blanc é colocado no caso.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] AMOR ENTRE AMIGOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2006918fb1e96b4a301d986de595342a1794b663</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gFnUfJdTpLX9fQMNOiO5BKijaQb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Nigéria, os planos de um casamento geram uma confusão inimaginável e testam a amizade e o amor de diversas pessoas envolvidas. Tudo se desenrola a partir de um homem que cai em um golpe e precisa correr contra o tempo para conseguir planejar o casamento luxuoso de um rico investidor, antes que sua vida desmorone.</info>
+</item>
+
 
