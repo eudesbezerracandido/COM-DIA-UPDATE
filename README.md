@@ -1,5 +1,14 @@
 # COM-DIA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] DETOX DIGITAL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ccb43a2dfea1876ff282e185651e111a67b32f4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6UUBHMDIHYyZPxW8RwSl47Uzwgq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Conheça Dan e Jeanine Dewerson. A única faísca em seu quarto é da tomada de parede. Sem filhos, sem telefones, sem mídia social, apenas ar puro e muito romance. Mas o que começa como o fim de semana perfeito rapidamente se torna desastroso com encontros sobrenaturais, comidas fortes, locais irritados e um cão irritadiço de um olho só.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] LIÇOES PARA CANALHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5afe9391ebd1d8baad210fcc7ee6b6efcb53881</link>
