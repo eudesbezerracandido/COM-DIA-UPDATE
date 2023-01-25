@@ -1,6 +1,15 @@
 # COM-DIA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] ME ASSUSTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d59517f9953f863533e8f1689277140c13bda5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8X6ODeD0LxeYv4ckIgr6YdmcOb3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante uma queda de energia, dois estranhos contam histórias assustadoras. Quanto mais Fred e Fanny se comprometem com seus contos, mais as histórias ganham vida no escuro de uma cabana em Catskills. Os horrores da realidade se manifestam quando Fred enfrenta seu medo final: ela é uma autora MUITO melhor que ele.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DETOX DIGITAL  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ccb43a2dfea1876ff282e185651e111a67b32f4</link>
