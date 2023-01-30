@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] 30 NOITES COM MINHA EX  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1060c42f1b426a1ddde079f828f1d2d8182caab0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9GUOSsdQrchL57N4HTAncDEWxKO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após três anos separado de La Loba, que apresenta um longo histórico de internações psiquiátricas, El Turbo aceita conviver durante 30 dias com sua ex-mulher a pedido de sua filha. La Loba deve fazer a transição entre a internação e sua reinserção social. A nova estrutura familiar fará com que El Turbo e La Loba revivam os sentimentos de amor e despertem a ilusão de que seguem juntos.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] O PREÇO DA FAMLIÍA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c6dca4f5644cb4bc88c9dac057143cdf6bff24</link>
