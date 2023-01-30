@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DARBY - A JOVEM SENSITIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de97e50f8d9bd3236b6f986d02bb175c8295cd47</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dfgKwPUMc8WVzm40eJ5ox6DSk1L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na trama, uma adolescente ganha a habilidade de falar com os mortos e usa seus poderes para aconselhar fantasmas com assuntos inacabados.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] 30 NOITES COM MINHA EX  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1060c42f1b426a1ddde079f828f1d2d8182caab0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9GUOSsdQrchL57N4HTAncDEWxKO.jpg</thumbnail>
