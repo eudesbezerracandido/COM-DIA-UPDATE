@@ -1,5 +1,14 @@
 # COM-DIA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] VINGANÇA - VENGEANCE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NKTE2GWR62PNIRKIQYTXNYYRSV2NERHB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ozceAmPJHgK9AqTkHYyksmMofdR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um escritor de Nova Iorque tenta resolver o assassinato de uma garota com quem ele ficou e viaja para o sul para investigar as circunstâncias de sua morte e descobrir o que aconteceu com ela..</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] JACK E JILL - NÓS PASSOS DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0548bde2b100676d2b1049bdef4af55026db1b2</link>
