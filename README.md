@@ -1,7 +1,12 @@
 # COM-DIA-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] JACK E JILL - NÓS PASSOS DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0548bde2b100676d2b1049bdef4af55026db1b2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7quAseCUjPhksKWnvEFyyJWZMdc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma noite estrelada, Jack e Jill conhecem, separadamente, uma cigana que lhes diz que conhecerão o amor de suas vidas antes da meia-noite do final do ano, o que acontece em apenas cinco dias. A contagem regressiva começa, e Jack e Jill vão a uma série de encontros horríveis e hilários, cada um pior que o outro.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] DARBY - A JOVEM SENSITIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
