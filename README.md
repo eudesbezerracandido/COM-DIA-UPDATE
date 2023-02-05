@@ -1,6 +1,16 @@
 # COM-DIA-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] ASSALTO AÉREO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9e29b68a71495b9d727d08e0cacad44f7e21598</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hRvWo6hPCElFBkZwhHPrHLzFTgH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ladrão profissional com dívidas de 40 milhões de dólares deve cometer um último golpe - roubar um cassino aéreo futurista cheio dos criminosos mais perigosos do mundo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM ASILO FORA DO COMUM  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f01ffcdcfba10903ab494fa1ce399b432400d67c</link>
