@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] UM ASILO FORA DO COMUM  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f01ffcdcfba10903ab494fa1ce399b432400d67c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kXnKdf3K2FNGx9ME8QPz4z7TYEx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para não ir para a cadeia, um homem é forçado a trabalhar em um asilo. Lá ele constrói uma amizade com um grupo de idosos e juntos eles organizam uma fuga.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VINGANÇA - VENGEANCE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NKTE2GWR62PNIRKIQYTXNYYRSV2NERHB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ozceAmPJHgK9AqTkHYyksmMofdR.jpg</thumbnail>
