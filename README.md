@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] UMA FESTA DE AROMBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R6JM5RJ6LED447P54CYUYQ4BZJWDN2BL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um estudante do ensino médio decide dar uma festa em casa enquanto seus pais estão fora. Um remake da comédia de 1990, Uma Festa de Arromba.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ASSALTO AÉREO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
