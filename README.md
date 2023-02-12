@@ -1,6 +1,12 @@
 # COM-DIA-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] ALGUÉM QUE EU CONSTUMAVA CONHECER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f7728c663c1ad6c4f5200b17e521b6107efda68</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m7LufNqf6zrz9u112fNcn19Zr8W.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Somebody I Used to Know conta a história da workaholic Ally (Brie) que, em uma viagem para sua cidade natal, passa uma noite com seu ex-namorado Sean (Ellis), o que a faz questionar tudo sobre as escolhas que ela fez e a pessoa que ela se tornou. E as coisas só ficam mais confusas quando ela conhece Cassidy (Clemons), uma mulher mais jovem que a lembra da pessoa que ela costumava ser.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] UMA FESTA DE AROMBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
