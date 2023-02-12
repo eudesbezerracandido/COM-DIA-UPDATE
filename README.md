@@ -1,5 +1,22 @@
 # COM-DIA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] QUERIDO DAVID  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd897dee275fda6c821324922ac4b08943cffa3a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f3HkD0GxSuOZehm370aSAdgpGet.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A vida de uma aluna séria vira de cabeça para baixo quando seu blog caprichoso sobre o garoto por quem ela está secretamente apaixonada vaza para toda a escola. Ela então se pergunta quem são seus verdadeiros amigos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AT MIDNIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:706fe7300fb75cab5b8ea1c5a9604e5691ec9056</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em At Midnight, Alejandro (Diego Boneta) é um gerente de hotel, já Sophie (Monica Barbaro) é ma estrela de cinema que circula pela política de Hollywood. Ambos tem suas próprias ambições em um mundo injusto. Ele quer abrir seu próprio hotel boutique, enquanto ela quer fazer um papel bom no filme de super-herói Super Society 3, para que ela consiga seu próprio spin-off. Mas claro que nem tudo são rosas, já que seu coprotagonista que também é seu namorado a trai. O destino une essas duas pessoas diferentes quando vão filmar no hotel em que Alejandro trabalha no México. Apesar de suas vidas radicalmente diferentes, Alejandro e Sophie começam a se encontrar secretamente à meia-noite.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NA SUA CASA OU NA MINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44c96cefd7d9e2f58933a462eef03d81ce91bc63</link>
