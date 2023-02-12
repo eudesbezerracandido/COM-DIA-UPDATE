@@ -1,6 +1,14 @@
 # COM-DIA-UPDATE
 
 <item>
+<title>[COLOR silver][B] NA SUA CASA OU NA MINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44c96cefd7d9e2f58933a462eef03d81ce91bc63</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história segue Debbie (Reese Witherspoon) e Peter (Ashton Kutcher), grandes amigos há tempos, mas também bem diferentes um do outro. Debbie ama a vida tranquila que leva com o filho em Los Angeles, já Peter ama a correria de Nova York. Mesmo com a distância, os dois se falam todos os dias. É então que surge uma oportunidade para Debbie, só que ela deverá ir para Nova York, mas não pode deixar o filho sozinho do outro lado do país, na Califórnia. Ela pede para que Peter troque de casa com ela, por uma semana, assim ela conseguirá seguir seu sonho e ele cuidará de seu filho por um tempo na casa dela. Com o passar dos dias, ambos perceberão que a vida pode ser muito mais do que imaginavam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ALGUÉM QUE EU CONSTUMAVA CONHECER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f7728c663c1ad6c4f5200b17e521b6107efda68</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/m7LufNqf6zrz9u112fNcn19Zr8W.jpg</thumbnail>
