@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] AMOR AO QUADRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0a0be624be3f304370cbd7b9d73000f0c36d9e0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dxor2vaqkXLA6Z2VoJnqZWUTCKe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A professora Monika (Adrianna Chlebicka) e o jornalista de tabloide Enzo (Mateusz Banasiuk) são um casal. No entanto, a crise começa quando Monika tem um novo emprego esperando por ela: ela deve aparecer na frente da câmera para um programa infantil de televisão – e, assim, ser ela mesma, ao contrário de seu segundo emprego anterior como a top model incógnita Klaudia. E durante as gravações, seu atraente novo colega Rafal (Mikolaj Roznerski) faz avanços claros.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] QUERIDO DAVID  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd897dee275fda6c821324922ac4b08943cffa3a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f3HkD0GxSuOZehm370aSAdgpGet.jpg</thumbnail>
