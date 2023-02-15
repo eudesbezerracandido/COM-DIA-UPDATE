@@ -1,6 +1,15 @@
 # COM-DIA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] MAIS CEDO MORTO DO QUE CASADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00ac167934a486b18693808142e679febfef8ae2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ewS8BeUqoNmzF7JQm07CiukwONb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Mariana acha que casamentos são uma farsa e por isso ela se dedica a planejá-los. Quando o Luis, seu namorado, a pede em casamento, ela se nega a fazer parte do negócio que ela tanto menospreza. Para fingir que o rompimento não a magoou, ela aceita planejar o casamento do seu ex-namorado. Só que a Mariana não sabe que a razão pela qual o Luis vai se casar é somente para se vingar dela.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMOR AO QUADRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0a0be624be3f304370cbd7b9d73000f0c36d9e0</link>
