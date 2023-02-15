@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] EM TODAS AS PARTES  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c40aecb730a3f53f86c5c10cd7705ff85493b33</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Há mais de uma década separados, um casal de irmãos decide tentar uma reaproximação e realizar um sonho de infância: uma viagem de moto pelo México.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MAIS CEDO MORTO DO QUE CASADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00ac167934a486b18693808142e679febfef8ae2</link>
