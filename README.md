@@ -1,8 +1,13 @@
 # COM-DIA-UPDATE
 
 
-
-
+<item>
+<title>[COLOR silver][B] ACAMPAMENTO EM FAMÍLIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f69f7e0b13204b71ee5532b4049a1715684b3f50</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qG9fOheV8chlcKjQdUgJaJXrzkf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando a esposa do viciado em trabalho Tommy insiste que ele passe mais tempo com sua família, ele concorda em se inscrever no Family Camp. O que Tommy não contava era ser forçado a dividir uma tenda no acampamento com a grandiosa família Sanders.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EM TODAS AS PARTES  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
