@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] ALERTA! TEMPORADA DE TUBARÕES  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70410752e0f8867c9f726fa4291a015fd89dd570</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pODSiR9nguBXoB6iW0Qjz1LiuD0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma pequena cidade costeira no sudoeste da França está em alerta máximo após o desaparecimento de um surfista, logo a incrível verdade é revelada: um tubarão está rondando o porto.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DESLIZAMENTO PELA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c669d5d74168cc66cee6b3a7f078e5756336564e</link>
