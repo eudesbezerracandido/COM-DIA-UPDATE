@@ -1,6 +1,15 @@
 # COM-DIA-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] TRIANGULO DA TRISTEZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8ea419026c4650128b6e98ec1c220836b773dcc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal de modelos são convidados para um cruzeiro de luxo. Quando o iate afunda, eles ficam presos em uma ilha deserta com um grupo de bilionários e uma faxineira.Na luta pela sobrevivência, velhas hierarquias são viradas de cabeça para baixo, já que a faxineira é a única que sabe pescar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O PIOR VIZINHO DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b08c274a06a80b4e9bd14a6b81fb0fbac479e8d7</link>
