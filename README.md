@@ -1,6 +1,12 @@
 # COM-DIA-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] AMOR AO PRIMEIRO BEIJO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12e4e6290b89cde09ee6c20ccde361b52b270c41</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com a habilidade de ver o futuro, Javier descobre quem é o grande amor de sua vida. Só tem um problema: ela é a namorada do seu melhor amigo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A FARSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
