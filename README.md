@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A FARSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3daa0d5e8fe4b786e6c17816fb20bc9f0471ebef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Adrien, um dançarino atraente cuja carreira foi arruinada por um acidente de moto, desperdiça sua juventude na preguiça da Riviera Francesa, onde é cuidado por Martha, uma ex-estrela de cinema. Sua vida muda quando conhece Margot, que vive de golpes e manipulações amorosas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRIANGULO DA TRISTEZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8ea419026c4650128b6e98ec1c220836b773dcc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg</thumbnail>
