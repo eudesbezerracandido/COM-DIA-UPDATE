@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] QUEBRA GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db8239a8f1b82a5fa5a9bd40102fbf20d901bd1e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dnwf2DyI41EkWvJnOLfWV6DFRNW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando a babá de uma das famílias mais conhecidas e ricas da cidade rejeita os avanços do pai, ela se vê na lista negra e teme por sua vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FARSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3daa0d5e8fe4b786e6c17816fb20bc9f0471ebef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7ZBfjV7pJMXnuftpDr35gUHe8Pe.jpg</thumbnail>
