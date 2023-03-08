@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SUPER QUEM? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZPLTRW22V5CUW7EGIW7L4M6M7N4YHECD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b9XVAP8AWQ30uRkKNTvmER8OVMa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ator decadente condenado a levar a vida de um perdedor. Quando finalmente consegue um papel principal como um super-herói chamado Badman, ele sente que tudo é possível, mas o destino ataca novamente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MAGIC MIKE-A ÚLTIMA DANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RH3LTRABFJDYRION45MOBCTNOZM2N654</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/raPPX7aRjqc33360tdadlzWDzo2.jpg</thumbnail>
