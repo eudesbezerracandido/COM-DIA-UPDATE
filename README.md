@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EM UMA ILHA BEM DISTANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U4M6BVBF6YIHJNZAVY25OB3AUWI6PZZE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rEZMl8M5EKjPncmaBi6c0UEkAqz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao viajar à Croácia para conhecer a casa que ganhou de herança, uma mulher reencontra a alegria de viver e abre as portas para um novo amor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ENTÃO É NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7MPJUTJYOE65RLIHCMMS6KT2TYHCUB5O</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7u3G10gEpRBjB6874qcx7B3FZaA.jpg</thumbnail>
