@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ENTÃO É NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7MPJUTJYOE65RLIHCMMS6KT2TYHCUB5O</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7u3G10gEpRBjB6874qcx7B3FZaA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nia é uma corretora de imóveis local que está ajudando Julian a encontrar a propriedade ideal para expandir sua empresa de incorporação imobiliária.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 80 PELO BRADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd1a420f078e6a26855adf88f3416a8a8a2391b5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jixBLmH4gQuTKTenZr89egvqZbW.jpg</thumbnail>
