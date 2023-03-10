@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TANGOS,TEQUILAS E ALGUMAS MENTIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2RENJ7KL7NVIVUJNXFASMAAPYRIXKQKS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lu acredita que tem a vida perfeita. Quando conhece Diego, um belo e mal-humorado argentino que está visitando o México, acredita que será fácil conquistá-lo. Mas sua vida dará uma reviravolta quando, para ganhar uma aposta com suas amigas, ela fará o impossível para que ele se apaixone, mesmo que isso signifique ir até o coração da Argentina.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMOR AO PRIMEIRO BEIJO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12e4e6290b89cde09ee6c20ccde361b52b270c41</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg</thumbnail>
