@@ -1,6 +1,14 @@
 # COM-DIA-UPDATE
 
 <item>
+<title>[COLOR silver][B] VOLTE SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a02476098cdc6f6d2d9a2eb58e73ecad5e684fb0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5lr41BAVnwrnOCYp8GMN5J6K8RM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um apresentador de rádio aposentado embala mantimentos para ganhar dinheiro para ir à festa de aniversário de seu ex-empregador, onde espera se reunir com o amor de sua vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMOR AO PRIMEIRO BEIJO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12e4e6290b89cde09ee6c20ccde361b52b270c41</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gkTzYs4pTnX6Mtx2SN0fa6vja7I.jpg</thumbnail>
