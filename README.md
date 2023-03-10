@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FORASTEIROS MALDITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c92b35de35f33d41237cd057167dfebffe60b3f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/boZHbJZbYNZFIFZWQ6DGzq6BPs8.jpgFORASTEIROS MA</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um açougueiro tímido e sua irmã gêmea deixam a Inglaterra para se aventurar na Austrália em busca de sua mãe. Mas os aparentemente calmos moradores de sua nova cidade escondem um segredo sombrio.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TANGOS,TEQUILAS E ALGUMAS MENTIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2RENJ7KL7NVIVUJNXFASMAAPYRIXKQKS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg</thumbnail>
