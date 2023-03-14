@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MINHA VIDA PELA SUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b5756c18905c00098be8b6fe4d1537d4961c032</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1zNBq5KGZAX9kcykAer3796T2PC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Locas por el Cambio conta a divertida história de Paula, que teve uma vida cheia de privilégios que a levaram a se sentir satisfeita, mas insatisfeita com sua vida, e de Paulia que experimentou o contrário e se sente oprimida com as responsabilidades da vida moderna. Tudo mudará em um dia fatídico em que eles se colocarão no lugar do outro e descobrirão que nem tudo é o que parece, e entre emaranhados e aventuras, eles literalmente vivenciarão em suas próprias mentes o que os torna tão diferentes e semelhantes ao mesmo tempo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FORASTEIROS MALDITOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c92b35de35f33d41237cd057167dfebffe60b3f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/boZHbJZbYNZFIFZWQ6DGzq6BPs8.jpgFORASTEIROS MA</thumbnail>
