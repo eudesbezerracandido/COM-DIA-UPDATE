@@ -1,5 +1,16 @@
 # COM-DIA-UPDATE
 
+
+
+<item>
+<title>[COLOR silver][B] O DITADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7GF423XN5VSUIYW2HAWLCA3OKCL6YPMM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8wkGlPOAEnSigS1DZmf3vp9chSg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com seu costumeiro incrível sarcasmo, Sacha Baron Cohen retorna às comédias ácidas em O Ditador, que conta a história heróica de um ditador que arrisca sua vida para garantir que a democracia nunca chegue ao país que ele amavelmente oprime.
+</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VOLTE SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a02476098cdc6f6d2d9a2eb58e73ecad5e684fb0</link>
