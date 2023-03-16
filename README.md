@@ -1,6 +1,12 @@
 # COM-DIA-UPDATE
 
-
+<item>
+<title>[COLOR silver][B] JÁ ERA HORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fb296d0f8d92fa82899c84c544efc0abb6d4f8d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Já Era Hora segue Dante (Edoardo Leo), a típica pessoa que nunca consegue passar do dia, que sempre se atrasa e luta para navegar entre o trabalho e a vida privada. O primeiro dia de seus quarenta anos ou é a exceção e ele está horas atrasado para sua festa de aniversário. Segundo ele, se trabalhar bastante, talvez em alguns anos consiga ganhar algum tempo. Mas o que acontece quando você acorda no dia seguinte e se encontra um ano à frente? Como é possível que já seja seu quadragésimo primeiro aniversário? E como é que sua namorada Alice (Barbara Ronchi) está grávida de quatro meses? O que aconteceu com o resto de seu ano? Quando Alice acorda novamente para segurar uma linda menina de alguns meses em seus braços, desejando-lhe um feliz aniversário de quarenta e dois anos, Dante percebe que está vivendo uma vida acelerada da qual não tem memória ou controle. Ele será capaz de entender o valor do tempo antes que sua vida desmorone?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O DITADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
