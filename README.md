@@ -1,5 +1,14 @@
 # COM-DIA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] QUEM MATOU LADY WINNSLEY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40810614a791ab1f3df555d34489f06168448094</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mWmommP8HkJKH0fq5MHkLSlRZdv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A escritora americana Lady Winsley é assassinada em Büyükada, uma ilha do Arquipélago do Príncipe, na Turquia. O inspetor Fergün chega de Istambul para chefiar a investigação e passa a contar com a ajuda da bela Azra, que trabalha no hotel onde aconteceu o crime. Para descobrir o assassino, Fergün terá de lidar com os diversos segredos que este pequeno recanto do país guarda, de inúmeros tabus e famílias poderosas a conflitos étnicos e tradições ancestrais.</info>
+</item>
+  
 <item>
 <title>[COLOR silver][B] JÁ ERA HORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fb296d0f8d92fa82899c84c544efc0abb6d4f8d</link>
