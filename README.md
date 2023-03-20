@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ZOLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:417badcf57a928ab65e464b49fb20ffe022e6ab7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bJLCPROp9bmNndurwZpVnOioVpB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma stripper chamada Zola embarca numa viagem selvagem para a Florida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] QUEM MATOU LADY WINNSLEY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40810614a791ab1f3df555d34489f06168448094</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mWmommP8HkJKH0fq5MHkLSlRZdv.jpg</thumbnail>
