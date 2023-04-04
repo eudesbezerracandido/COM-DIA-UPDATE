@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] VICE-VERSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0db8deebb5d6b4f6a322c4c0a87f981d0c53d02a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bUR6FWWl2M9W8rOhS4rOWZ1ctN4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cansada de ser intimidada, Cassandra Evans reza para que sua nêmesis, Katie Sharp, a abelha-rainha das redes sociais, saiba o que é passar um dia em seus sapatos. Sua oração é respondida de uma maneira inesperada quando eles são “trocados”.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ZOLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:417badcf57a928ab65e464b49fb20ffe022e6ab7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bJLCPROp9bmNndurwZpVnOioVpB.jpg</thumbnail>
