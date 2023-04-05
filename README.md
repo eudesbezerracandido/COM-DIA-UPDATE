@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PEQUENO BULLDOG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c0ff7d6c6a51f28990e60cdfc7ce33630061710</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2QEqmXf0yYpzooe24LJyETlhM9L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A adolescente Amber adora animais e vive em uma cidade que simplesmente idolatra os bulldogs. A menina é filha adotiva e não se parece em nada com seus pais. Ela simpatiza com um cachorrinho diferente chamado Shadow, que não é um bulldog. Amber consegue convencer seus pais a deixá-la ficar com o cãozinho, para o desgosto dos vizinhos. Quando uma denúncia é feita e Shadow é levado pela prefeitura, Amber precisa juntar provas e testemunhas para provar que não há nada de errado em ser diferente – e mostrar isso para o juiz no tribunal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ZOLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:417badcf57a928ab65e464b49fb20ffe022e6ab7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bJLCPROp9bmNndurwZpVnOioVpB.jpg</thumbnail>
