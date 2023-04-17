@@ -1,6 +1,13 @@
 # COM-DIA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] BRILHO PARA FELICIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98dc0489ff60962c309ba2126f8fbd6f6736d56e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5TfC5Dr1PYOlrUQzGhOf6uQbRZT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um cabeleireiro aposentado foge de uma casa de repouso e embarca em uma jornada por sua pequena cidade para pentear o cabelo de uma mulher morta para seu funeral, confrontando fantasmas de seu passado e redescobrindo seu brilho ao longo do caminho.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] RAINHA EM FUGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
