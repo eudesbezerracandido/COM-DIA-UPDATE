@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BRIAN E CHARLES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2037f9838119539bf2ab02140f38c46140bc012b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9xe0MYtsoitXJgsKpY4GgB02lbx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Brian, um inventor excêntrico, vive sozinho em uma vila rural. Não tendo em quem confiar, ele se sente solitário e deprimido e decide fazer algo sobre esta situação: usando sua criatividade e uma velha máquina de lavar, Brian cria um robô.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RAINHA EM FUGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94fe03f6a56e8d0f9175946287e605756979a68c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iL0hVqtK0NUa6B9UJXkoq5jSXAz.jpg</thumbnail>
