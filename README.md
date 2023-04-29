@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] JOGO DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f0f56ea2bac92e9559caccab864fb655df90805</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cnOvRDoYqcrOVjOBqRAP5NlhpkS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Segue Vivien e Roy enquanto sua história de amor continua e os leva à casa de infância de Roy na Sicília para se preparar para a venda da propriedade da família. Durante a visita, uma mulher misteriosa chega e faz amizade com Vivien, para desgosto de Roy. As tensões aumentam e as linhas são cruzadas à medida que segredos do passado de Roy forçam o casal a enfrentar aspectos de seu relacionamento que eles não sabiam que existiam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CASAMENTO EM FAMÍLIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:903a7d46e41f4d64aefee046aac3930b5259c130</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1vi88La90aTwEtsRMNqXNwtTXn3.jpg</thumbnail>
