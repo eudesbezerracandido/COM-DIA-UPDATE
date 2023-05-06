@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] AS TRÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2268717e455e129c8fcbce368df612625290117e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qCIbW6ocszh1URnIS6ikw1BQCjV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sexualmente desajeitada, Stacy Johnson decide tomar as rédeas de sua vida, cancelar seu ex e vencer seu medo de fazer um ménage com seu novo namorado e uma desconhecida misteriosa. O que poderia dar errado?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOGO DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f0f56ea2bac92e9559caccab864fb655df90805</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cnOvRDoYqcrOVjOBqRAP5NlhpkS.jpg</thumbnail>
