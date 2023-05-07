@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] UM PEDAÇO DO MEU CORAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b13a9945d76ff3eb437b1bb79710853113383b6b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w3l5BUsadsBQuodKkD9PhwjOiJf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Isabella é uma mulher de negócios motivada e uma verdadeira estrela no mundo financeiro. Quando ela retorna à sua pequena cidade natal para comemorar o aniversário do pai, se sente uma vencedora em comparação com seus antigos colegas de classe. Porém, sua confiança fica abalada ao descobrir que uma antiga paixão vai se casar com uma de suas amigas de infância.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS TRÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2268717e455e129c8fcbce368df612625290117e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qCIbW6ocszh1URnIS6ikw1BQCjV.jpg</thumbnail>
