@@ -1,7 +1,12 @@
 # COM-DIA-UPDATE
 
-
-
+<item>
+<title>[COLOR silver][B] QUANDO VOCÊ TERMINAR DE SALVAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A8A7A5ADECAE841604C7F26DE9CCD63951C5916</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Evelyn e seu filho alheio Ziggy procuram substitutos um para o outro. Enquanto Evelyn tenta ser mãe de uma adolescente despretensiosa em seu abrigo, Ziggy se atrapalha em sua busca por uma jovem brilhante na escola.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O URSO DO PÓ BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
