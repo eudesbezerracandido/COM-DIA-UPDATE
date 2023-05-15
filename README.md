@@ -1,6 +1,13 @@
 # COM-DIA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] O LADO ESGRAÇADO DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cda89e003476098b551d242097e8f76c9488646</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nBuMpE6HB8lu9xQIsTpDxU1UQEM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dee (Rachael Harris) é uma mulher casada que se vê presa na pequena cidade de International Falls e na vida em que vive com seu marido Gary (Matthew Glave) e suas duas filhas. Ela trabalha em um hotel e tem um sonho de ser comediante. Um dia, conhece um comediante em declínio chamado Tim (Rob Huebel) que vai se apresentar em sua cidade. Os dois se aproximam e ela se interessa em saber como é o trabalho dele no ramo da comédia. No encontro inesperado acaba surgindo surpresas e segredos íntimos da vida de ambos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VIDEOMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
