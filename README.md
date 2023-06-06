@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] MALVADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B3A94BC70E6063F14E2D2EB0EBD4405502B3A33</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ybHIXYgqqGuQWMfnYfkaL7lGR1z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mãe desesperada entra em contato com a ex-namorada de seu filho para contar que ele está prestes a se casar com uma bruxa malvada.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MINTA SE FOR CAPAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
