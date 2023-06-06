@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] JETHICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B1688F5134ED8EAA1D3592C663E2357D4B74DCB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qJgsvHJZvfuAJOf3GjcQqK8o1Va.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto se escondia no Novo México após um acidente estranho, Elena encontra Jessica, uma velha amiga do colégio. Quando o perseguidor de Jessica aparece de repente em sua porta, eles devem buscar ajuda além do túmulo para se livrar dele, para sempre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MALVADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B3A94BC70E6063F14E2D2EB0EBD4405502B3A33</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ybHIXYgqqGuQWMfnYfkaL7lGR1z.jpg</thumbnail>
