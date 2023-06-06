@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MINTA SE FOR CAPAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83af21c912e23d9f7763c62d962308dbab053c3e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oY9IE9TN2UkjALFPPl3ZDgktbde.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dastan não suporta mais as constantes reclamações de sua esposa grávida e decide sair para pescar com seus amigos – um aspirante a empresário e um policial distrital.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ANO EM QUE COMECEI A VIBRAR POR MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3f0a087a621cb3cf5a208ee4270cfce746328ad</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sWLDNBluDgAhQ0m4S3dsfETO7S4.jpg</thumbnail>
