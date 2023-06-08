@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] FAMA A QUALQUER PREÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afd27a1483f23c14f58cc46912aa1c3cd4017cb5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7g09iGPnhyPniphDlw1cJe1aDim.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de atores frustrados decide passar o fim de semana em uma casa de campo, mas quando uma das atrizes descobre que conseguiu o papel principal em uma grande produção, a inveja toma conta dos demais e as coisas saem fora de controle.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JETHICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B1688F5134ED8EAA1D3592C663E2357D4B74DCB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qJgsvHJZvfuAJOf3GjcQqK8o1Va.jpg</thumbnail>
