@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] BENNY LOVES YOU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ac3a1fc5f34873b4282b91bb0707d4a13a2c2d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3RE9DNBCvuso5OPZPg71ryntNjx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O estilo de vida de Jack muda após a morte de seus pais e ele se vê obrigado a vender a antiga casa da família. Buscando um novo começo de vida, ele decide se livrar de todos os seus objetos de infância, incluindo um urso de pelúcia chamado Benny. Mas o que Jack não contava é que o brinquedo voltaria para assombrá-lo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DANDO RENFIELD - SANGUE PELO CHEFE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2010f14178269fca454d9068a490db773bf1bbf3</link>
