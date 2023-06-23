@@ -1,7 +1,13 @@
 # COM-DIA-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] AMERICAN ULTRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61fc2600f16b36a562a636c2c9f537cd687475c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/doA2dKpvsEAfv6YBJnnq4fNZJae.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jesse vai interpretar um desmotivado drogado chamado Mike, que mora com sua namorada Phoebe (Stewart), em uma pequena cidade. Uma noite, suas vidas tomam um rumo inesperado quando o passado de Mike volta para assombrá-lo, e ele se torna o alvo de uma operação do governo feita para mata-lo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BENNY LOVES YOU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
