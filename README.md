@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] UMA NOITE SEM LIMITES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d08331a949a4a507ab64d0476391646fb97b570</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6z9utEbOSkXrSdvUugWUkj0sOUb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O músico fracassado Kyle Cassidy está apaixonado pela carismática Nikki Duke, esposa de um abusivo astro do rock, que saiu em turnê com a banda. Após uma noite de excessos na mansão de Nikki, ela desmaia e Kyle liga para a emergência. Os dois acabam sendo roubados pelos paramédicos, o que resultará em uma noite de desventuras pelas ruas de Los Angeles.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA FESTA DE AROMBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:768e68087772caec1a1c3832af526db6287f04e7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg</thumbnail>
