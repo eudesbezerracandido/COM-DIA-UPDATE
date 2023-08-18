@@ -1,6 +1,13 @@
 # COM-DIA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] É CULPA DA ALEGRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c438611697bdaf4725766925517641a3f4ba4039</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sp2JMBYeOAPf38zAGSF0cNyEhtW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Charlie sofre de cataplexia, um distúrbio neurológico que causa paralisação súbita quando ele sente alguma emoção forte - em particular, felicidade. Ele desenvolve várias técnicas para se proteger de prazeres e alegrias, mas elas são testadas quando ele conhece a bela e vivaz Francesca.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] UMA NOITE SEM LIMITES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
