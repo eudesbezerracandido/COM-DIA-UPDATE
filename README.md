@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] JUNTOS, MAS NEM TANTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2a8211f50caf25bb28af95a75e896f3805be98a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/92HWorYe29Ugrfr8RemDr6aKE8s.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma atriz famosa tem um colapso nervoso durante uma festa para um novo filme da franquia. Ela pede a um completo estranho (que erroneamente pensa que alugou a casa de sua família) para fingir ser seu namorado nas férias e passá-las com sua família excêntrica.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NINGUÉM PODE VÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
