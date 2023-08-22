@@ -1,6 +1,16 @@
 # COM-DIA-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] NINGUÉM PODE VÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd3771f53790ce127dcd559039f3ee1435201b0c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xn7KkPFiQjssmDYVp55kxLdBZIc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na ausência de sua irmã Rim, o que Yasmina estava fazendo em um estacionamento com Salim e Majid, seus namorados? Se Rim não sabe nada, é porque Yasmina está fazendo tudo o que não consegue aprender. O que? O vergonhoso ... o pior ... a vergonha XXL, tudo imortalizado por Salim em um vídeo potencialmente muito volátil.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] É CULPA DA ALEGRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c438611697bdaf4725766925517641a3f4ba4039</link>
