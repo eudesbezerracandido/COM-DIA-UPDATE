@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O MELHOR LUGAR DA TERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f7ad7b8f92d629118c0ec282b2781e8d150bf29</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sL44B6R6yjuWWqUQENQRQUsHFfI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma cidadezinha de pescadores, surge uma oportunidade de melhorar a economia e os moradores fazem de tudo para aproveitar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMOR AO QUADRADO PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae685fbe06cf85e230a40af8f672fc71c869b3e0</link>
