@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OBRIGADO POR TUDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99d5ccb5f8035fd7e011722324ea6fedf93a7053</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kb6b8x44yqHIglI2aMLk15RBy65.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As irmãs Marianne e Christine não se falam há um tempo, mas se reencontram após a morte inesperada de seu pai.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMOR AO QUADRADO PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae685fbe06cf85e230a40af8f672fc71c869b3e0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cD67jLjJcPKFyIRlyLmECyENrz6.jpg</thumbnail>
