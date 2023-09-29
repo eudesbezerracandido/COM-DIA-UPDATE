@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 7 DIAS PARA VEGAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c18ef581effb75aa9a3193bccd1eacf1baf0119c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mklFTp3zDlQvZVrURvSrlANIAhs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Hollywood, os ricos e famosos fazem apostas em qualquer coisa. É nesse cenário que o lutador e ator Duke Madson cria o maior jogo de pôquer clandestino da região. Até que um dia, Duke faz a proposta mais bizarra de sua vida: celebridades, jogadores excêntricos e até seus próprios amigos apostam milhões que Duke não conseguirá ir andando de Los Angeles até Las Vegas em apenas sete dias.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OBRIGADO POR TUDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99d5ccb5f8035fd7e011722324ea6fedf93a7053</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kb6b8x44yqHIglI2aMLk15RBy65.jpg</thumbnail>
