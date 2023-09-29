@@ -2,6 +2,22 @@
 
 
 
+<item>
+<title>[COLOR silver][B] CAÇADOR DE RATOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7996f0f437522675a097cc002a055f9c31cf5159</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5fHwVtgJLeOiaKENJ2s8BPY6Rvv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Numa aldeia inglesa, um repórter e um mecânico ouvem um caçador de ratos explicar o seu plano inteligente para enganar a sua presa.</info>
+</item>
+
+
+<item>
+<title>[COLOR silver][B] FLORA & FILHO: MÚSICA EM FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:URIRLAQEWUOCYDZP2YBQPSQVFXPOZOFU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/irewLLkM8WaOP1gps6YWkPqLy4m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Flora, mãe solteira, não sabe o que fazer com Max, o filho adolescente rebelde. Quando a polícia sugere a Flora encontrar um hobby para Max, ela entrega a ele um violão surrado. Com a ajuda de um músico fracassado de LA, Flora e Max descobrem o poder de transformação da música.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O MELHOR LUGAR DA TERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
