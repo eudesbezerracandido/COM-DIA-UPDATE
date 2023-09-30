@@ -1,6 +1,13 @@
 # COM-DIA-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] DO OUTRO LADO DA FRONTEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b97ff4491b49ac041a0068345c8d21e4fc71e4af</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1z8PDr9hiM4LHmOSU26fibuSer5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de ter o coração partido pelo seu primeiro amor, um jovem cantor decide se juntar ao seu tio, deixar a Califórnia e embarcar numa épica jornada rumo ao México, onde ele irá se reconectar com suas raízes e descobrirá mais sobre si mesmo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CAÇADOR DE RATOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
