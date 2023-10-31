@@ -3,6 +3,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] 20 ANOS MAIS JOVEM  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:481068b3e40e604a22eb90df537525c0d9c4eba6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w7oWSyxPL5LeeB5tgNNWefOOENT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Alice Lantins (Virginie Efira) tem 38 anos e é editora de moda. Em uma distração, perde um importante cartão de memória após uma viagem, mas por sorte o estudante Balthazar Apfel (Pierre Niney) o encontra. Os dois se conhecem e uma foto comprometedora do casal vaza na imprensa. Nada aconteceu, mas o burburinho e a fama de "ousada" agradam Alice, que decide investir no relacionamento com o rapaz mais jovem para subir na carreira.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM DIA DOS MORTOS - NADA TRADICIONAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fbc5205679827c4b83748f4a08538acacbb7388</link>
