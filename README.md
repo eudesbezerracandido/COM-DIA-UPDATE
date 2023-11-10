@@ -6,6 +6,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] TERAPIA DE CASAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90959bb1387cddc3ae768d0b710319496a1518db</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lXvccIkJtVlnrRJcCveQ5rZT5IZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um casal procura Judy Small, uma conselheira matrimonial, que usa métodos nada convencionais. Procurando resolver problemas conjugais, Susan e Bob decidem procurar ajuda profissional e se encontram com Judy Small, uma terapeuta obcecada que vai testar o relacionamento deles das maneiras mais inimagináveis possíveis.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 20 ANOS MAIS JOVEM  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:481068b3e40e604a22eb90df537525c0d9c4eba6</link>
