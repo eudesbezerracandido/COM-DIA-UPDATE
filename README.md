@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] GUERRA ENTRE HERDEIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecab21f602f96843ae32af10b118d3153b7b167c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mQQvSozFKxJZmWrmnnrE5LV8CKG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história de duas irmãs que tentam conquistar sua tia com doença terminal e difícil de agradar na esperança de se tornarem beneficiárias de sua rica propriedade, mas descobrem que o resto de seus gananciosos membros da família têm a mesma ideia.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TERAPIA DE CASAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
