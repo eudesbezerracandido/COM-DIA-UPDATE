@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] THE DROP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38ad0e77e6591e66eecc84c28febc442f5a7633a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xLQ674ObzFnyxNb6vcofEEbLHZ4.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Nesta comédia inteligente, um casal aparentemente feliz enfrenta um teste em seu casamento quando um deles deixa cair um bebê durante um casamento em uma ilha tropical.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GUERRA ENTRE HERDEIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
