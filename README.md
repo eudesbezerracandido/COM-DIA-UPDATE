@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A GUERRA DO AMBURGUER 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PCWTMP23W2OHWOY72SCHKNTY2BKJS3IQ</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pcwOHNTIy6pVOLj6Tjp8tSL9bwF.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Ed e Dex estão juntos mais uma vez e devem salvar o dia depois que um dos esquemas de negócios do Dex acidentalmente coloca em risco o destino do Good Burger.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE DROP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38ad0e77e6591e66eecc84c28febc442f5a7633a</link>
