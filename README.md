@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DUNKI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9691b766ba8508570f0e86c1f6d7b47ba34ed66d</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/kPRb1mbVHGop0egQ7153y0lhzGL.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um grupo de amigos usa um processo secreto para se mudar para outro país e depois luta para voltar para casa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A GUERRA DO AMBURGUER 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PCWTMP23W2OHWOY72SCHKNTY2BKJS3IQ</link>
