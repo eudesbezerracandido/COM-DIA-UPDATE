@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ATRAVÉIS DA MINHA JANELA-OLHOS NÓS OLHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:M4LCFYVEPRX6KU76U7DF2HPBP4TUIVZJ</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nxCPqvBGeiBU1IOK7LbReAyVQQ7.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Raquel e Ares não se esquecem um do outro, mesmo estando com pessoas novas. Será que eles vão superar a pressão familiar e ficar juntos no capítulo final da trilogia?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DUNKI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
