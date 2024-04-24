@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] UMA VOVA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84d319a1a53d2f1444cdc284b8af94c9084a51fc</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/kkXGsCIo643ryekY8UT6Onzrc4r.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Baseado no romance de Chuck Klosterman, Downtown Owl é uma comédia sombria da Era Reagan ambientada na cidade fictícia de Owl, Dakota do Norte, nos primeiros dias que antecederam a nevasca da região no século de Minnesota.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GRAVIDEZ A QUALQUER CUSTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
