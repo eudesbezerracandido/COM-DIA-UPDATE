@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] PUAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:K27EHFU2I7XP6O4IF2BIAAIP2VK7XMAN</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2QbIXx5yR10REOyznVEeZQCb1w3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Na Universidade de Buenos Aires surge uma rivalidade entre dois professores de Filosofia por uma carga de professor.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] UMA VOVA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
