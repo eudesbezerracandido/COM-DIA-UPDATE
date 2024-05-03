@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] 100 COISAS PARA FAZER ANTES DE VIRAR UM ZIMBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e78d57989c599e4dea04ad7f975e9767daacca9f</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/lwyleO7PqNNkX66stvANWP01p9I.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Em 100 Coisas para Fazer Antes de Virar Zumbi, Akira Tendo (Eiji Akaso) trabalha em uma empresa abusiva, sofrendo com horas extras eternas, assédio moral e tarefas ilógicas, se sentindo mais morto do que vivo. Até que um dia, a cidade é invadida por zumbis e, diante de toda essa destruição, ele decide não ir mais trabalhar. Com uma atitude feliz e positiva, Akira cria uma lista de 100 coisas que gostaria de fazer antes de virar zumbi, como limpar a casa e acampar, e começa a realizar cada desejo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PUAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:K27EHFU2I7XP6O4IF2BIAAIP2VK7XMAN</link>
