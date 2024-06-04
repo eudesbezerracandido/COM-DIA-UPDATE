@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] AUTOCONFIANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75HSQF3ZG6EOBIK5ZVABEI5DLMFP7H5F</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/soLaiiEGZoLUfEUglw4bhOfQryn.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Nesta hilária comédia de suspense com Jake Johnson e Anna Kendrick, a vida mundana de um homem de meia-idade se transforma quando ele tem a chance de ganhar um milhão de dólares se escapar de assassinos por 30 dias num reality show da dark web.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 100 COISAS PARA FAZER ANTES DE VIRAR UM ZIMBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e78d57989c599e4dea04ad7f975e9767daacca9f</link>
