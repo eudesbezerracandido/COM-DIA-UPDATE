@@ -7,6 +7,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] O ROUBO DO QUADRADO NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf7c670d28a4f7773ad97f28493dbd4d5ed6430f</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/xK5UOTEDB0Jlhz0dvMRjB1qhAFS.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Dois ladrões de obras de arte roubam o famoso quadro Black Square do pintor russo Kasimir Malevich. O plano seria entregar a obra para seus clientes que estāo a bordo de um cruzeiro; acontece que as coisas não acontecem como o esperado.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AUTOCONFIANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75HSQF3ZG6EOBIK5ZVABEI5DLMFP7H5F</link>
